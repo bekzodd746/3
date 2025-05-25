@@ -1,0 +1,38 @@
+.box2{
+    width: 550px;
+    height: 600px;
+    border: 2px solid;
+    margin: auto;
+    border-radius: 60px;
+}
+.box3{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 50px;
+}
+.a{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+h1{
+    text-align: center;
+    margin-top: 50px;
+    color: #0E0D5D;
+    font-size: 48px;
+}
+.box4{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 50px;
+   background-color: #F5F5F5;
+}
+input{
+    width: 450px;
+    height: 60px;
+    margin-left: 40px;
+}
